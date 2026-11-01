@@ -1,12 +1,15 @@
-const LogoText=[
-
-    'R',
+const LogoText = [
     'A',
+    'R',
+    'O',
+    'M',
+    'A',
+    '_',
+    'R',
+    'O',
+    'O',
     'T',
-    'A','N','H','E','R','B','S'
-
-
-
+    'S'
 ]
 
 export default LogoText;

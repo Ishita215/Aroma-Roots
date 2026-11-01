@@ -23,9 +23,8 @@ const Hero = () => {
           <span
             className={`font-extrabold leading-[52px] text-[52px] sm:text-[80px] sm:leading-[80px] `}
           >
-            Devbhumi
-          </span>{" "}
-          Ratan Harbal
+            Aroma_roots
+          </span>
         </h1>
 
         {/* <h5 className="text-[15px] leading-[26px] font-walsheimReg text-white ">

@@ -24,13 +24,12 @@ const AboutUs = () => {
           className={`${noto_sans2.className} leading-normal text-justify w-full  text-gray-700`}
         >
           <p className="first-letter:text-[24px] leading-[26px]">
-            Established in 1984. Devbhumi Ratan Herbal is a tapestry woven with
+            Established in 1984. Aroma_roots is a tapestry woven with
             threads of tradition, innovation and a profound respect for nature.
             Rooted in the lap of Himalayas, our journey began with a vision to
             unlock the secrets of ancient herbal wisdom. With a deep
             understanding of the rich biodiversity that graces the{" "}
-            <span className="font-extrabold text-black">Devbhumi </span>
-            <span className="italic text-black"> (Land of the Gods)</span>, we
+            <span className="font-extrabold text-black">Aroma_roots </span>, we
             embarked on a mission to harness the healing power of the herbs that
             thrive in this sacred soil.
           </p>

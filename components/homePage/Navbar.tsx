@@ -81,7 +81,7 @@ const Navbar = () => {
           width={80}
           height={80}
           className=""
-          alt="Ratan Herbs"
+          alt="Aroma_roots"
         />
       </Link>
 
@@ -148,10 +148,10 @@ const Navbar = () => {
                 src="/images/logo.png"
                 width={23}
                 height={23}
-                alt="Ratan Harbal"
+                alt="Aroma_roots"
               />
               <p className="h2-bold  text-black ">
-                Devbhumi <span className="text-black">Ratan Harbal</span>
+                Aroma_roots
               </p>
             </Link>
             <div>

@@ -73,9 +73,9 @@ const Footer = () => {
           </Button>
         </form>
         <p className="text-pure-greys-400 text-sm font-sans">
-          I accept Devbhumi Ratan Harbal&apos;s Terms and Conditions and
+          I accept Aroma_roots&apos; Terms and Conditions and
           acknowledge that my information will be used in accordance with
-          Devbhumi Ratan Harbal&apos;s{" "}
+          Aroma_roots&apos;{" "}
           <Link
             href="/"
             className="underline underline-offset-8 text-neutral-700 hover:text-black "
@@ -97,7 +97,7 @@ const Footer = () => {
             <h1
               className={`text-xl  tracking-tight leading-normal   ${noto_sans2.className}  bg-hero-light  animated-gradient text-center`}
             >
-              Devbhumi Ratan Harbal
+              Aroma_roots
             </h1>
           </Link>
           {navbarLinks.map((link: any) => (
